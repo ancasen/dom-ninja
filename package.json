@@ -1,0 +1,27 @@
+{
+  "name": "dom-ninja",
+  "version": "1.0.0",
+  "description": "Vanilla JS library to speed up and simplify DOM manipulation",
+  "main": "domninja.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ancasen/dom-ninja.git"
+  },
+  "keywords": [
+    "dom",
+    "vanilla",
+    "js",
+    "javascript",
+    "client",
+    "library"
+  ],
+  "author": "Andreas Casen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ancasen/dom-ninja/issues"
+  },
+  "homepage": "https://github.com/ancasen/dom-ninja#readme"
+}
